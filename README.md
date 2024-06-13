@@ -37,8 +37,8 @@ models of Machine Learning.
 Looking for the better prediction, four models were used:
 * Logistic Regression
 * Naive-Bayes
-* K-Neighbors Classifier
-* Support Vector Classifier
+* Decision Tree Classifier
+* Random Forest Classifier
 
 Each one was trained with the same data and its accuracy was computed, along with their Learning Curve
 
