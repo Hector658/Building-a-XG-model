@@ -1,5 +1,7 @@
-# Building-a-xG-model
+# Building-an-xG-model 
+Using free data from Statsbomb
 
+![p_lot](https://github.com/Hector658/Building-a-XG-model/assets/146046209/f9c6e755-424f-490d-9ebd-1d32ad572fde)
 
 
 Expected goal (xG) model is a statistical method used to measure the quality of scoring opportunities in football (soccer).
